@@ -1,0 +1,370 @@
+{
+  "main": {
+    "id": "d585cf56350c2d97",
+    "type": "split",
+    "children": [
+      {
+        "id": "779765e6b7dcba5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f94358a1a0025a5d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "scratch"
+            }
+          },
+          {
+            "id": "169cf46a9b33829b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-03-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-10"
+            }
+          },
+          {
+            "id": "22688def7d365160",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hobbies/coding/game ideas/Game idea scratch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Game idea scratch"
+            }
+          },
+          {
+            "id": "96e56edaded1bb02",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "97b221f8aef47f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home alarm security system.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Home alarm security system"
+            }
+          },
+          {
+            "id": "a06798281fa3459c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-03-23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-23"
+            }
+          },
+          {
+            "id": "88e59573606e72be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Claude.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude"
+            }
+          },
+          {
+            "id": "e40e412efb1501f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-04-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-26"
+            }
+          },
+          {
+            "id": "0eb90349a81b890f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hobbies/reading/quotes/Accessibility vs authenticity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Accessibility vs authenticity"
+            }
+          },
+          {
+            "id": "31ed0d910bb5aeff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-06-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-06"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9a922df4962d539",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bfff73dde41327aa",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5ab7569f9447a644",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3b77bad6eaaa97d8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "38d569c40da82074",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "fd7960626feb3a1c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "5904971eff32dc13",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "34dd6b309407d24c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "37951cd9421fb58b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Hobbies/reading/quotes/Accessibility vs authenticity.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e1d27c91e95c59ca",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "1. PROJECT/office/Inspiration.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3af586cf14cd397d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "1. PROJECT/office/Inspiration.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "31ed0d910bb5aeff",
+  "lastOpenFiles": [
+    "godot wild jam 81.md",
+    "Daily/2025-06-06.md",
+    "Daily/2025-06-04.md",
+    "Untitled 11.md",
+    "Hobbies/reading/quotes/Unknown about nostalgia.md",
+    "Untitled.canvas",
+    "Daily/2025-05-26.md",
+    "Hobbies/coding/game idea - blacksmith defense.md",
+    "Untitled 10.md",
+    "scratch.md",
+    "Hobbies/reading/quotes/Accessibility vs authenticity.md",
+    "Daily/2025-04-28.md",
+    "Daily/2025-04-26.md",
+    "Hobbies/coding/game ideas/Game idea scratch.md",
+    "Claude.md",
+    "Daily/2025-04-13.md",
+    "Daily/2025-04-11.md",
+    "Claude.sync-conflict-20250407-135758-OMQCXIN.md",
+    "Hobbies/coding/game ideas/Game idea scratch.sync-conflict-20250407-135758-OMQCXIN.md",
+    "Daily/2025-04-02.md",
+    "3. RESOURCE/Bluetooth failure.md",
+    "Narrative idea - A Quiet Earth.md",
+    "Daily/2025-04-06.md",
+    "Daily/2025-04-07.md",
+    "Daily/2025-04-04.md",
+    "Daily/2025-04-01.md",
+    "Daily/2025-04-03.md",
+    "ADHD.canvas",
+    "Uncategorized/attachments/Amazon.ca - Order 702-9551502-9313019.pdf",
+    "Uncategorized/attachments/Pasted image 20250206151809.png",
+    "Uncategorized/attachments/Amazon.ca - Order 702-0840965-0939404.pdf",
+    "Uncategorized/attachments/2024-10-21 22_12_40-Kits.ca -- Phoenix Low Bridge Fit.png",
+    "Uncategorized/attachments/Pasted image 20241022160702.png",
+    "1. PROJECT/heat pump/attachments/Signed RVAC Contract-Allen Chi Ying Jiang.pdf",
+    "Hobbies/coding/game ideas/attachments/Recording 20240908171229.m4a",
+    "Hobbies/coding/game ideas/attachments/Recording 20240908145916.m4a",
+    "attachments/Recording 20240908145404.m4a",
+    "1. PROJECT/attachments/MechanicalSystem-Contractorqualification_Final.pdf",
+    "Hobbies/coding/game ideas/attachments/Pasted image 20240617115124.png",
+    "Hobbies/coding/game ideas/Dataflux.sync-conflict-20240621-001149-K4XQOLE.canvas",
+    "Hobbies/coding/game ideas/attachments/Pasted image 20240617112121.png",
+    "Hobbies/coding/game ideas/attachments/Pasted image 20240617144416.png",
+    "Hobbies/coding/Godot/attachments/Pasted image 20240620225652.png",
+    "Hobbies/coding/Godot/attachments",
+    "Hobbies/coding/game ideas/Dataflux.canvas",
+    "Hobbies/coding/Godot/Learning Godot.canvas",
+    "Hobbies/coding/Untitled.canvas",
+    "Hobbies/coding/attachments/60589-1_orbito.webp",
+    "attachments/WhatsApp Image 2024-02-22 at 20.06.20_005afa5a.jpg",
+    "Food/baby recipes/Untitled.canvas",
+    "attachments/Pasted image 20240404111600.png",
+    "Food/baby recipes",
+    "BC Renal/attachments/Patient Family Engagement Advisory Committee Member 2023.pdf",
+    "2. AREA/parents/mom's rash.canvas",
+    "PROJECTS/heat pump/grant research.canvas"
+  ]
+}
